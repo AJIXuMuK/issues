@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "yarn",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.12.1",
+    "libraryName": "react-controls-931",
+    "libraryId": "3222b197-3072-4760-a318-869f53ae3adc",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
